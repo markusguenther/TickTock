@@ -7,6 +7,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"minutes-seconds-milliseconds": "^1.0.3",
 		"react": "16.0.0-alpha.6",
 		"react-native": "0.43.4"
 	},
