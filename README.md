@@ -6,7 +6,7 @@ He visit the 5th grade and had one day to find out what people in a digital agen
 We planned this little stop watch app, created an icon and implement all things of course.
 So he left the office with his own stop watch app o his phone.
 
-Want to find out more about Boys or Girls day? Visit [![https://boys-day.de](https://boys-day.de) or [![https://girls-day.de](https://girls-day.de).
+Want to find out more about Boys or Girls day? Visit (https://boys-day.de) or (https://girls-day.de).
 
 
 ## Disclamer
